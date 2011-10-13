@@ -7,7 +7,7 @@ public class TreeActivity extends Activity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.tree.xml);
+		setContentView(R.layout.tree);
 	}
 	
 	public void printTest()
