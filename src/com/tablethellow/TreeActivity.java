@@ -12,6 +12,6 @@ public class TreeActivity extends Activity {
 	
 	public void printTest()
 	{
-		System.out.println("Hello!");
+		System.out.println("Hello there from git!");
 	}
 }
